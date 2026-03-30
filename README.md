@@ -1,6 +1,6 @@
-# 🏛️ Python for Machine Learning Lab
+# 🏛️ Model Analysis Lab (IML Lab)
 
-Welcome to the official repository for the **Python for Machine Learning Lab**. This repository contains a comprehensive collection of experiments, assignments, and practical exercises developed during the course.
+Welcome to the official repository for the **Model Analysis Lab (IML Lab)**. This repository contains a comprehensive collection of experiments, assignments, and practical exercises developed during the course.
 
 ---
 
